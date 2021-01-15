@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cOrange">#ff9a76</color>
+    <color name="cLightOrange">#ffeadb</color>
+    <color name="cGreen">#637373</color>
+    <color name="cLightGreen">#679b9b</color>
+    <color name="cBlue">#00587a</color>
+    <color name="cLightBlue">#89C1D6</color>
+    <color name="cBlack">#FF000000</color>
+    <color name="cWhite">#FFFFFFFF</color>
+    <color name="cGray">#AFB1B1</color>
+    <color name="cNavigationBackgorund">#ff9a76</color>
+    <color name="cTextHeader">#ff7b54</color>
+    <color name="cTextDescription">#00587a</color>
+    <color name="backgroundColor">#ffeadb</color>
+</resources>

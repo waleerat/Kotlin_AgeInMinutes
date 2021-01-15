@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Your Age in Minutes</string>
+    <string name="bntDatePicker">CALCULATE YOUR</string>
+    <string name="ageTextField">AGE</string>
+    <string name="select_date">Select Date</string>
+    <string name="selected_date">Selected date</string>
+    <string name="in_minutes_till_date">In minutes till date</string>
+    <string name="_0">0</string>
+    <string name="unknown">Unknown</string>
+    <string name="in_minutes">IN MINUTES</string>
+</resources>
